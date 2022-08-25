@@ -1,12 +1,12 @@
 {
   "originalUrl": "http://localhost/mimosaurus.be/links",
   "title": "De Mimosaurus",
-  "archiveTime": "2022-08-21T19:33:15.121Z",
+  "archiveTime": "2022-08-25T18:42:12.575Z",
   "indexFilename": "index.html",
   "resources": {
     "stylesheet_0.css": "http://localhost/mimosaurus.be/wp-content/plugins/social-link-pages/link-page/build/static/css/main.6b927182.chunk.css?ver=1.4.2",
     "images/0.png": "http://localhost/mimosaurus.be/wp-content/uploads/2022/08/cropped-logo-png-zonder-wit-1000x1000-1-300x300.png",
-    "images/2.png": "http://localhost/mimosaurus.be/wp-content/uploads/2022/08/test-banner-1024x307.png",
-    "images/1.ico": "http://localhost/favicon.ico"
+    "images/1.ico": "http://localhost/favicon.ico",
+    "images/2.png": "http://localhost/mimosaurus.be/wp-content/uploads/2022/08/test-banner-1024x307.png"
   }
 }
